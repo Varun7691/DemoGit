@@ -6,6 +6,8 @@ public class MainClass {
 		System.out.println("THIS IS A DEMO");
 
 		System.out.println("THIS IS A DEMO FOR FIRST CHANGE");
+
+		System.out.println("THIS IS A DEMO FOR SECOND CHANGE");
 	}
 
 }
